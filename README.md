@@ -8,3 +8,6 @@ http://arduino.esp8266.com/stable/package_esp8266com_index.json
 
 // ATTINY58
 https://raw.githubusercontent.com/damellis/attiny/ide-1.6.x-boards-manager/package_damellis_attiny_index.json
+
+// Turning the Arduino into a Programmer.
+http://highlowtech.org/?p=1706
